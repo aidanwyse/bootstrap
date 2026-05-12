@@ -1,0 +1,15 @@
+.col-box {
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    font-weight: bold;
+}
+
+.container{
+    background-color: lightgray;
+    margin-bottom: 10px;
+}
+
+h2{
+    text-align: center;
+}
